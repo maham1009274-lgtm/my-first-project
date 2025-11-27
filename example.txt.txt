@@ -1,1 +1,7 @@
+
+
 Hello GitHub! This is my first file.
+
+I am learning Git and GitHub step by step.
+Now I can add more text and push it to my repository.
+This is how I manage my project files using Git.
